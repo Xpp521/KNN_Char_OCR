@@ -1,0 +1,17 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+out
+gen
+
+/data/train-labels.idx1-ubyte
+/data/t10k-images.idx3-ubyte
+/data/t10k-labels.idx1-ubyte
+/data/train-images.idx3-ubyte
+/digits.png
+/digits0.png
+/img.png
+/0.py
