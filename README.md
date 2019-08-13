@@ -12,4 +12,4 @@
 
 **效果图**：
 ![img](https://raw.githubusercontent.com/Xpp521/KNN_Char_OCR/master/%E6%95%88%E6%9E%9C%E5%9B%BE.jpg)
-<center>（左侧为识别效果图，右侧为预处理图）</center>
+< center>（左侧为识别效果图，右侧为预处理图）< /center>
